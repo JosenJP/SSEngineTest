@@ -1,0 +1,4 @@
+<answers>
+	<columns>idAnswer,answer</columns>
+	<ukey>idAnswer</ukey>
+</answers>

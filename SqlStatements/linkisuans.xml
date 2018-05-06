@@ -1,0 +1,4 @@
+<linkisuans>
+	<columns>idIssue,idAnswer</columns>
+	<ukey>idIssue</ukey>
+</linkisuans>
